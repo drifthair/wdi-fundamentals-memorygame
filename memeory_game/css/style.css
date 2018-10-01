@@ -91,3 +91,12 @@ footer {
 .name {
     color: #f15b31;
 }
+
+button {
+    background-color: #f15b31;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
